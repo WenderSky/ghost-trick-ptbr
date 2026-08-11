@@ -1,0 +1,37 @@
+Ghost Trick: Phantom Detective — tradução para português do Brasil
+==================================================================
+
+COMO INSTALAR
+  Dê dois cliques em INSTALAR.bat.
+
+  O script procura a pasta do jogo sozinho, em todas as bibliotecas do
+  Steam (inclusive em outros discos). Se não achar, ele pergunta o caminho.
+
+COMO JOGAR
+  Abra o jogo normalmente. Ele já começa em português — a tradução ocupa
+  o lugar do inglês, então não há opção para trocar.
+
+COMO REMOVER
+  Dê dois cliques em DESINSTALAR.bat. O jogo volta ao inglês.
+
+O QUE ESTÁ TRADUZIDO
+  As 12.197 falas do jogo — roteiro completo, menus, sistema e a
+  enciclopédia — mais as 22 imagens que têm texto desenhado dentro
+  (títulos de capítulo, logotipo, telas de carregamento e avisos).
+
+  Os nomes dos personagens foram mantidos como no original: Sissel,
+  Lynne, Missile, Cabanela, Jowd, Kamila, Yomiel e os demais.
+
+SOBRE SEUS SAVES
+  A tradução não encosta nos saves. Instalar ou remover não apaga nada.
+
+SE ALGO DER ERRADO
+  A tradução é um arquivo só, chamado
+  re_chunk_000.pak.patch_001.pak
+  dentro da pasta do jogo. Apagar esse arquivo devolve o jogo ao inglês,
+  sem precisar reinstalar nada. O jogo original nunca é modificado.
+
+  Verificar a integridade dos arquivos pelo Steam também remove a
+  tradução — se fizer isso, é só rodar o INSTALAR.bat de novo.
+
+MD5 do patch: f3442d32f069454ef546562663df1561

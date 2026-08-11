@@ -1,0 +1,38 @@
+{
+  "st03/st03_7000.msg.18.csv": {
+    "st03_7000_m03_7020_00": "Não adianta. O telefone\ninterno não funciona.",
+    "st03_7000_m03_7020_01": "Acho melhor eu achar\noutro caminho."
+  },
+  "st03/st03_5400.msg.18.csv": {
+    "st03_5400_m03_5400_00": "Uau. O que será que\naconteceu aqui?",
+    "st03_5400_m03_5400_01": "Tenho que procurar o\ndetetive Jowd...",
+    "st03_5400_m03_5400_02": "Mas será que eu tento\nfazer algo com esta\nsituação primeiro?",
+    "st03_5400_m03_5410_00": "O grandalhão parece\nestar tirando um cochilo.",
+    "st03_5400_m03_5410_01": "Duvido que os meus poderes\nmíseros bastem pra acordá-lo.",
+    "st03_5400_m03_5410_02": "<TRCK mes_se_play no=\"SE_SYS_022\" />Descanse em paz, fã de curry.",
+    "st03_5400_m03_5410_03": "<TRCK c2 />(Hmm. É meio sinistro\nquando um fantasma diz isso...)<TRCKEND c2 />"
+  },
+  "st03/st03_7900.msg.18.csv": {
+    "st03_7900_m03_7900_00": "Mas o \"até a próxima\" do\ndetetive Jowd chegou mais\nrápido do que eu esperava.<TRCK paragraph_end/>\nQuando voltei à sala da\nguarda, veio a próxima\nligação decisiva.",
+    "st03_7900_m03_7930_00": "Alô. Aqui é--",
+    "st03_7900_m03_7910_00": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesflash />Sissel, você está aí?",
+    "st03_7900_m03_7910_01": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash /><TRCK mesquake />Alô? Quem está falando?",
+    "st03_7900_m03_7910_02": "Ah, não estou falando com\nvocê, guarda.",
+    "st03_7900_m03_7910_03": "Enfim, se você estiver aí,\nSissel, venha aqui\nimediatamente.",
+    "st03_7900_m03_7910_04": "Eu estarei esperando... se\nvocê chegar a tempo, claro.",
+    "st03_7900_m03_7920_00": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash /><TRCK mesquake />Ei, espera um pouco!",
+    "st03_7900_m03_7940_00": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesflash /><TRCK mesquake />Aquela ligação! De quem era?!",
+    "st03_7900_m03_7940_01": "Sei lá. Uma ligação estranha.",
+    "st03_7900_m03_7940_02": "Ah, mas quem...?!",
+    "st03_7900_m03_7940_03": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesflash /><TRCK mesquake />...vai pôr fim à\nminha dança?!",
+    "st03_7900_m03_7950_00": "É, bom, quando você\nengata assim...",
+    "st03_7900_m03_7950_01": "<TRCK mes_se_play no=\"SE_SYS_022\" />...eu não vou te parar.",
+    "st03_7900_m03_7950_02": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesflash /><TRCK mesquake />Então é uma disputa!",
+    "st03_7900_m03_7950_03": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesflash /><TRCK mesquake />O que vai parar primeiro?!\nA minha dança! Ou o giro\ndo planeta?!",
+    "st03_7900_m03_79460_00": "É. Boa sorte com isso.",
+    "st03_7900_m03_79470_00": "Hmm...",
+    "st03_7900_m03_79470_01": "Aposto que a esta altura\neu já faço aquela dança...",
+    "st03_7900_m03_79470_02": "<TRCK c2 />(Mas estou mais preocupado\ncom a <TRCKEND c2 /><TRCK c1 />mensagem<TRCKEND c1 /><TRCK c2 /> do detetive.)<TRCKEND c2 />",
+    "st03_7900_m03_79470_03": "<TRCK c2 />(É melhor eu chegar\nlá... rápido!)<TRCKEND c2 />"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "st09/st09_2000.msg.18.csv": {
+    "st09_2000_m09_2510_04": "Deixe-me falar francamente.\nEu não confio em você.",
+    "st09_2000_m09_2510_05": "<TRCK mes_se_play no=\"SE_SYS_022\" />Mas há outra pessoa em\nquem eu confio ainda menos.",
+    "st09_2000_m09_2510_06": "Ah, é? E quem seria?",
+    "st09_2000_m09_2510_07": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesquake /><TRCK mesflash />Eu!",
+    "st09_2000_m09_2510_08": "Eu não consigo explicar a sua\nexistência. Não é normal. Mas...\neu mesmo sou bem anormal...",
+    "st09_2000_m09_2510_09": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesflash /><TRCK mesquake />Então talvez você seja fruto da\nminha imaginação, um delírio!",
+    "st09_2000_m09_2510_10": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesflash /><TRCK mesquake />VOCÊ daria ouvidos a um delírio?!",
+    "st09_2000_m09_2510_11": "Para ser sincero...",
+    "st09_2000_m09_2510_12": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />...eu não faço ideia do\nque o senhor está falando.",
+    "st09_2000_m09_2510_13": "Mas peguei a parte de o\nsenhor não confiar em mim...",
+    "st09_2000_m09_2510_14": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesquake /><TRCK mesflash />Ótimo!",
+    "st09_2000_m09_2600_00": "Pelo que eu ouvi...",
+    "st09_2000_m09_2600_01": "...a Amelie devia ir a algum tipo\nde <TRCK c1 />aula <TRCKEND c1 />hoje à noite.",
+    "st09_2000_m09_2600_02": "<TRCK mesflash />Aqueles sequestradores horríveis...!\nEles estavam de tocaia esperando por ela!",
+    "st09_2000_m09_2600_03": "Mas a Amelie acabou não saindo.\nEla não pôde.",
+    "st09_2000_m09_2600_04": "<TRCK mes_se_play no=\"SE_SYS_022\" />Ela estava com <TRCK c1 />febre<TRCKEND c1 />.",
+    "st09_2000_m09_2600_05": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash /><TRCK mesquake />Hã... E então os sequestradores\npegaram a Kamila por engano\nno lugar dela...?",
+    "st09_2000_m09_2600_06": "Pelo visto. A Amelie e a Kamila\ntêm mais ou menos a mesma idade...",
+    "st09_2000_m09_2600_07": "<TRCK c2 />(Os sequestradores devem ter\n<TRCKEND c2 /><TRCK c1 />confundido<TRCKEND c1 /><TRCK c2 /> as duas...)<TRCKEND c2 />",
+    "st09_2000_m09_2600_08": ".........",
+    "st09_2000_m09_2600_09": "A culpa é minha...",
+    "st09_2000_m09_2600_10": "Se eu não tivesse pedido pra Kamila\n<TRCK c1 />fazer aquela tarefa pra mim<TRCKEND c1 />, isso\nnunca teria acontecido...",
+    "st09_2000_m09_2600_11": "<TRCK c2 />(Ah, é... Você pediu pra ela\ntrazer a <TRCKEND c2 /><TRCK c1 />caixinha de música<TRCKEND c1 /><TRCK c2 />...)<TRCKEND c2 />",
+    "st09_2000_m09_2600_12": "Kamila...",
+    "st09_2000_m09_2700_00": "Bom, ficar parado aqui\nnão vai mudar nada.",
+    "st09_2000_m09_2700_01": "Eu tenho dez minutos até\na van da prisão aparecer.",
+    "st09_2000_m09_2700_02": "Se eu conseguisse fazer algo\nquanto ao <TRCK c1 />sequestro<TRCKEND c1 />\nnesses dez minutos...",
+    "st09_2000_m09_2700_03": "<TRCK c2 />(Acho que as <TRCKEND c2 /><TRCK c1 />linhas\ntelefônicas<TRCKEND c1 /><TRCK c2 /> são a minha única esperança...!)<TRCKEND c2 />"
+  }
+}

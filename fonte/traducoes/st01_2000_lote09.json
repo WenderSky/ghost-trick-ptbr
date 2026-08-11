@@ -1,0 +1,29 @@
+{
+  "st01/st01_2000.msg.18.csv": {
+    "st01_2000_m01_2760_18": "Se você quiser me ver de\nnovo, é só morrer.",
+    "st01_2000_m01_2760_19": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash /><TRCK mesquake />Certo, entendido!",
+    "st01_2000_m01_2760_20": "<TRCK c2 />(Eu estava brincando.)<TRCKEND c2 />",
+    "st01_2000_m01_2760_21": "Bom, acho melhor a gente\nvoltar... para o presente!",
+    "st01_2000_m01_2530_00": "O tiro veio de algum lugar\nbem <TRCK c1 />lá em cima<TRCKEND c1 />.",
+    "st01_2000_m01_2530_01": "Se quisermos impedi-lo,\ntemos que ir até onde ele está.",
+    "st01_2000_m01_2530_02": "Mas primeiro temos que achá-lo...",
+    "st01_2000_m01_2530_03": "<TRCK c2 />(Temos que achar o\n<TRCKEND c2 /><TRCK c1 />tempo certo <TRCKEND c1 /><TRCK c2 />que abra um <TRCKEND c2 /><TRCK c1 />caminho<TRCKEND c1 /><TRCK c2 />\naté onde o matador está.)<TRCKEND c2 />",
+    "st01_2000_m01_2535_00": "Mesmo que a gente bloqueie\no tiro, isso só ganharia um\npouco mais de tempo.",
+    "st01_2000_m01_2535_01": "Não parece que dá pra fazer\nele desistir de atirar\npor completo.",
+    "st01_2000_m01_2535_02": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />O único jeito de lidar com o\nmal é esmagá-lo por completo!",
+    "st01_2000_m01_2535_03": "<TRCK c2 />(Essa detetive é um\npouquinho exagerada...)<TRCKEND c2 />",
+    "st01_2000_m01_2390_00": "A Lynne escapou da morte\npela segunda vez.",
+    "st01_2000_m01_2390_01": "Mas isso não quer dizer que\nela já esteja a salvo.",
+    "st01_2000_m01_2390_02": "É melhor eu ver como ela está.",
+    "st01_2000_m01_2400_00": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesflash />Bom...",
+    "st01_2000_m01_2400_01": "...parece que cabem os\n\"parabéns\".",
+    "st01_2000_m01_2400_02": "Você apagou mais uma morte.",
+    "st01_2000_m01_2400_03": "Mas eu não avancei nada\nem resolver o meu\npróprio mistério.",
+    "st01_2000_m01_2400_04": "Mas aquela mulher tem a\nchave. Não esqueça disso.",
+    "st01_2000_m01_2400_05": "A Lynne, é?",
+    "st01_2000_m01_2400_06": "Agora que ela está viva de\nnovo, deve continuar detida\nna sala do zelador.",
+    "st01_2000_m01_2400_07": "Ela não vai conseguir tocar\no caso dela sem liberdade\npara se mover.",
+    "st01_2000_m01_2400_08": "<TRCK c2 />(É melhor eu voltar à sala\ndo zelador e ver ela.)<TRCKEND c2 />",
+    "st01_2000_m01_2400_09": "Isso me parece uma boa ideia."
+  }
+}

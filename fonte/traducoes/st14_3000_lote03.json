@@ -1,0 +1,33 @@
+{
+  "st14/st14_3000.msg.18.csv": {
+    "st14_3000_m14_3120_01": "<TRCK c2 />(Que estranho...)<TRCKEND c2 />",
+    "st14_3000_m14_3120_02": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK c2 />(Eu achei que podia usar o\ntelefone no passado <TRCKEND c2 /><TRCK c1 />se\nalguém estivesse ligando<TRCKEND c1 /><TRCK c2 />...)<TRCKEND c2 />",
+    "st14_3000_m14_3120_03": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash /><TRCK mesquake />Do que você está falando?\nO fone tem que estar fora\ndo gancho primeiro, bobo!",
+    "st14_3000_m14_3120_04": ".........",
+    "st14_3000_m14_3120_05": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesquake /><TRCK mesflash />Bom, não olhe pra mim! Eu não\nconsigo. Não tenho mãos nem\npés no momento.",
+    "st14_3000_m14_3120_06": "<TRCK c2 />(Alguém, por favor,\natenda o telefone...)<TRCKEND c2 />",
+    "st14_3000_m14_3120_07": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesquake /><TRCK mesflash />Se você quer algo bem feito,\ntem que fazer você mesmo!",
+    "st14_3000_m14_3130_00": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash /><TRCK mesquake />Ei, a gente conseguiu de\nalgum jeito derrubar o fone!",
+    "st14_3000_m14_3130_01": "<TRCK c2 />(\"De algum jeito\"?\nQuem disse que não foi\nassim que eu planejei?)<TRCKEND c2 />",
+    "st14_3000_m14_3130_02": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesquake /><TRCK mesflash />Vamos, rápido! É a sua\nchance de entrar na linha!",
+    "st14_3000_m14_3130_03": "<TRCK mes_se_play no=\"SE_SYS_022\" />Pode ser o Detetive Jowd!",
+    "st14_3000_m14_3130_04": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesquake /><TRCK mesflash />...!",
+    "st14_3000_m14_3130_05": "<TRCK c2 />(Ela tem razão. É melhor\neu ir ver!)<TRCKEND c2 />",
+    "st14_3000_m14_3170_00": "Bom, parece que não dá pra parar\na explosão desta sala de máquinas...",
+    "st14_3000_m14_3170_01": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesflash /><TRCK mesquake />Como ele ousa manipular a Kamila!",
+    "st14_3000_m14_3170_02": "Não olhe pra mim\nquando disser isso.",
+    "st14_3000_m14_3170_03": "<TRCK c2 />(Acho que a gente vai ter que\nprocurar pistas <TRCKEND c2 /><TRCK c1 />em outro lugar<TRCKEND c1 /><TRCK c2 />.)<TRCKEND c2 />",
+    "st14_3000_m14_3200_00": "Desligaram. Não dá pra usar\na linha telefônica agora...",
+    "st14_3000_m14_3200_01": "Hmm... E agora a gente\nficou presa aqui.",
+    "st14_3000_m14_3200_02": "<TRCK mes_se_play no=\"SE_SYS_022\" />Talvez a gente devesse ter ido\nquando teve a chance.",
+    "st14_3000_m14_3200_03": "<TRCK mesquake /><TRCK mesflash />Ah, sei lá... Você acha?",
+    "st14_3000_m14_3200_04": "<TRCK c2 />(Talvez ela tenha razão...\nTalvez a gente devesse...)<TRCKEND c2 />",
+    "st14_3000_m14_3200_05": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />E aí, o que você estava\ntentando fazer? Fingir que\nestava tudo bem? Hi hi!",
+    "st14_3000_m14_3200_06": ".........",
+    "st14_3000_m14_3999_00": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesquake /><TRCK mesflash />Alô?! Tem alguém aí?!",
+    "st14_3000_m14_3999_01": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesflash /><TRCK mesquake />Se ainda tem alguém aí, venha\npra cá, e rapidinho!\nA gente está de saída!",
+    "st14_3000_m14_3999_02": "<TRCK mes_white_in time=\"MES_FADE_NORMAL\" />.........",
+    "st14_3000_m14_3999_03": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesquake /><TRCK mesflash />Fale! Por que não responde...?!",
+    "st14_3000_m14_3999_04": "<TRCK mes_se_play no=\"SE_SYS_024\" /><TRCK mesquake /><TRCK mesflash />E-Enfim, venha se for vir!\nA gente está indo embora!"
+  }
+}

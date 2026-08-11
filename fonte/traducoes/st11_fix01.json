@@ -1,0 +1,8 @@
+{
+  "st11/st11_0000.msg.18.csv": {
+    "st11_0000_m11_0100_09": "\"Aconteceu alguma coisa aqui\",\nele pergunta!",
+    "st11_0000_m11_0120_02": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mes_bgm_play no=\"BGM_017\" />E essa \"alguma coisa\" está longe\nde ser \"nada\", isso é certo!",
+    "st11_0000_m11_0125_03": "Tem outro lugar onde\neu preciso estar...",
+    "st11_0000_m11_0350_02": "<TRCK c2 />(Será que aconteceu algo...?)<TRCKEND c2 />"
+  }
+}

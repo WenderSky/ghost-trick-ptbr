@@ -1,0 +1,27 @@
+{
+  "st13/st13_2000.msg.18.csv": {
+    "st13_2000_m13_2400_03": "...quando fui possuir o corpo dele...",
+    "st13_2000_m13_2430_02": "Mas ela <TRCK c1 />acertou <TRCKEND c1 />algo, não foi...?",
+    "st13_2000_m13_2490_07": "Eu consigo controlar todo tipo de coisa --\ndos vivos aos mortos...",
+    "st13_2000_m13_2490_08": "Mas, mesmo assim...",
+    "st13_2000_m13_2490_09": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesflash />...há algumas coisas que você\nconsegue fazer e <TRCK c1 />eu não<TRCKEND c1 />.",
+    "st13_2000_m13_2490_10": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesquake />...!\nVocê quer dizer...?!",
+    "st13_2000_m13_2490_11": "Eu nem consigo voltar o tempo, quanto\nmais mudar o destino de uma morte.",
+    "st13_2000_m13_2490_12": "Se eu conseguisse fazer isso...",
+    "st13_2000_m13_2490_13": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesflash /><TRCK mes_bgm_play_vol no=\"BGM_027\" vol=\"256\" time=\"90\" />...eu teria salvado a sua vida.",
+    "st13_2000_m13_2490_14": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />...!",
+    "st13_2000_m13_2490_15": "E não é só isso...",
+    "st13_2000_m13_2490_16": "...eu jamais teria deixado a minha\nnoiva simplesmente morta daquele jeito.",
+    "st13_2000_m13_2490_17": "<TRCK mesquake />M-Mas você está aqui, dez\nanos no passado, agora...!",
+    "st13_2000_m13_2490_18": "Isso é graças aos seus poderes.",
+    "st13_2000_m13_2490_19": "Eu só peguei carona com você.",
+    "st13_2000_m13_2490_20": "<TRCK meswin disp=\"off\"/><TRCK mes_wait_set time=\"80\" /><TRCK mes_pause /><TRCK auto_end />",
+    "st13_2000_m13_2500_00": "De todo modo...",
+    "st13_2000_m13_2500_01": "...agora o ponto de partida desta\ntragédia inteira mudou\ndrasticamente, alterando o destino...",
+    "st13_2000_m13_2500_02": "<TRCK mes_white_in time=\"MES_FADE_NORMAL\" />.........",
+    "st13_2000_m13_2500_03": "O destino da sua morte...\nO destino do gatinho Sissel...",
+    "st13_2000_m13_2500_04": "...e eu aposto que o destino\nda mulher que você ama\ntambém mudou.",
+    "st13_2000_m13_2500_05": "Sim... acho que você tem razão.",
+    "st13_2000_m13_2510_00": "<TRCK mes_white_in time=\"MES_FADE_SLOW\" /><TRCK center/><TRCK c2 />(Então... este era o último<TRCKEND center/>\n<TRCK center/>destino a ser evitado, é?)<TRCKEND c2 /><TRCKEND center/>"
+  }
+}

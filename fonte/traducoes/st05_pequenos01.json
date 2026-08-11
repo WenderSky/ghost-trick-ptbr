@@ -1,0 +1,34 @@
+{
+  "st05/st05_id.msg.18.csv": {
+    "st05_id_st05a_acn_02_0": "Inclinar",
+    "st05_id_st05a_acn_07_0": "Girar Botão",
+    "st05_id_st05b_acn_00_0": "Acender",
+    "st05_id_st05b_acn_02_0": "Fazer Tocar",
+    "st05_id_st05b_acn_05_0": "Brilhar Mais",
+    "st05_id_st05b_acn_07_0": "Balançar Mais",
+    "st05_id_st05a_gn_02": "Passarinho",
+    "st05_id_st05a_gn_03": "Cata-vento",
+    "st05_id_st05a_gn_06": "Dicionário",
+    "st05_id_st05a_gn_07": "Luminária",
+    "st05_id_st05a_gn_08": "Bola de Papel",
+    "st05_id_st05a_gn_09": "Lixeira",
+    "st05_id_st05b_gn_00": "Isqueiro",
+    "st05_id_st05b_gn_02": "Relógio",
+    "st05_id_st05b_gn_03": "Válvula",
+    "st05_id_st05b_gn_04": "Manivela",
+    "st05_id_st05b_gn_05": "Lustre",
+    "st05_id_st05b_gn_07": "Pêndulo"
+  },
+  "st05/st05_9900.msg.18.csv": {
+    "st05_9900_m05_9900_00": "É melhor eu não apagar\na luminária agora.",
+    "st05_9900_m05_9900_01": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK c2 />(Isso só vai jogar mais lenha\nna fogueira da raiva no\ncoração desta senhora.)<TRCKEND c2 />",
+    "st05_9900_m05_9900_02": "Se eu quero dar à Amelie\numa chance de usar o\ntelefone...",
+    "st05_9900_m05_9900_03": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />...tenho que pensar num\n<TRCK c1 />jeito de manter a mãe dela\nfora do caminho<TRCKEND c1 />.",
+    "st05_9900_m05_9901_00": "Se bem me lembro, a romancista\ndisse que não gosta do escuro.",
+    "st05_9900_m05_9901_01": "Não quero que ela se debata\nmais do que já está\nse debatendo...",
+    "st05_9900_m05_9901_02": "<TRCK c2 />(É melhor eu não apagar\nesta luminária agora.)<TRCKEND c2 />",
+    "st05_9900_m05_9902_00": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />Hmm. O dicionário da senhora...",
+    "st05_9900_m05_9902_01": "Isto não estava na\nescrivaninha dela antes?",
+    "st05_9900_m05_9902_02": "Coitadinho. Destinado a\nnunca mais voltar\npara as estantes..."
+  }
+}

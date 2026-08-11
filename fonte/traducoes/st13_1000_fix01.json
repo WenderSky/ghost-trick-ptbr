@@ -1,0 +1,8 @@
+{
+  "st13/st13_1000.msg.18.csv": {
+    "st13_1000_m13_1730_00": "<TRCK mes_se_play no=\"SE_MUON\" /><TRCK center />\"O homem morreu. Eu o matei.\"<TRCKEND center />",
+    "st13_1000_m13_1730_01": "<TRCK mes_white_in time=\"MES_FADE_NORMAL\" /><TRCK center /><TRCK c2 />(...Do que se tratava a \"<TRCKEND c2 /><TRCK c1 />confissão<TRCKEND c1 /><TRCK c2 />\"<TRCKEND center />\n<TRCK center />dele...?)<TRCKEND c2 /><TRCKEND center />",
+    "st13_1000_m13_1740_01": "A cada resposta que eu recebo,\neu descubro um novo mistério.<TRCK paragraph_end />\nSerá que eu vou romper a corrente\nde mistérios antes do amanhecer...?",
+    "st13_1000_m13_1745_00": "Enfim, agora que temos a\nprova de que precisávamos...<TRCK paragraph_end />\n...decidimos nos encontrar de novo\nno gabinete do ministro.<TRCK paragraph_end />\nAlém disso, há coisas que eu\nquero perguntar ao Detetive Jowd..."
+  }
+}

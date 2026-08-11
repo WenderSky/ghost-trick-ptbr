@@ -1,0 +1,26 @@
+{
+  "st02/st02_4000.msg.18.csv": {
+    "st02_4000_m02_4705_05": "A gente <TRCK c1 />não sabe onde<TRCKEND c1 /> o\nsubmarino está, e a linha\ntelefônica não funciona...",
+    "st02_4000_m02_4705_06": "Eles usam cabos de\ncomunicação pras ligações...",
+    "st02_4000_m02_4705_07": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesflash />A gente vai te <TRCK c1 />ligar<TRCKEND c1 />\nde algum jeito -- você vai ver!",
+    "st02_4000_m02_4705_08": "Você pode esperar aqui\naté lá? Por favor?",
+    "st02_4000_m02_4705_09": "Certo... tudo bem.\nEstou contando com você.",
+    "st02_4000_m02_4705_10": "Esse \"<TRCK c1 />verdadeiro eu<TRCKEND c1 />\" que você\nestá procurando...",
+    "st02_4000_m02_4705_11": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesflash /><TRCK mesquake />...aposto que você vai\nachar logo!",
+    "st02_4000_m02_4707_00": "Certo, estou indo,\ninspetor Cabanela!",
+    "st02_4000_m02_4710_00": "O amanhecer está perto.<TRCK paragraph_end/>\nEu não sou quem eu achava...\nEstou mais longe do que nunca\nde saber quem eu sou.<TRCK paragraph_end/>\nMas agora não me sinto tão só.",
+    "st02_4000_m02_4710_01": "Cada um de nós, por seus\npróprios motivos, procura\na verdade.<TRCK paragraph_end/>\nJuntos, acho que podemos\niluminar estes mistérios\ne afastar a escuridão...<TRCK paragraph_end/>\nMas o amanhecer está perto...",
+    "st02_4000_m02_4900_00": "A Lynne cumpriu a promessa\nde me \"ligar\".<TRCK paragraph_end/>\nCerca de duas horas antes\ndo amanhecer, o telefone tocou.",
+    "st02_4000_m02_4910_00": "Alô?",
+    "st02_4000_m02_4910_01": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK mesflash />Aqui é o Jowd.",
+    "st02_4000_m02_4910_02": "Sissel, está ouvindo?\nPrecisamos dos seus poderes.",
+    "st02_4000_m02_4910_03": "Sem tempo pra conversa.\nEstaremos esperando você.",
+    "st02_4000_m02_4930_00": "<TRCK center/>Bom, é melhor você ir.<TRCKEND center/>",
+    "st02_4000_m02_4930_01": "<TRCK center/>Esta longa noite está<TRCKEND center/>\n<TRCK center/>chegando ao fim.<TRCKEND center/>",
+    "st02_4000_m02_4930_02": "É, parece que sim.",
+    "st02_4000_m02_4930_03": "Obrigado por toda a ajuda\nhoje à noite.",
+    "st02_4000_m02_4930_04": "<TRCK center/>Sou eu quem deveria<TRCKEND center/>\n<TRCK center/>estar agradecendo.<TRCKEND center/>",
+    "st02_4000_m02_4940_00": "<TRCK center /><TRCK c2 />(Do outro lado da<TRCKEND center />\n<TRCK center/>linha telefônica...)<TRCKEND c2 /><TRCKEND center/>",
+    "st02_4000_m02_4940_01": "<TRCK center /><TRCK c2 />(...eu vou enfim achar todas<TRCKEND center />\n<TRCK center/>as respostas. Melhor eu ir!)<TRCKEND c2 /><TRCKEND center/>"
+  }
+}

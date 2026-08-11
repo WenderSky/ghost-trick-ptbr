@@ -1,0 +1,32 @@
+{
+  "st02/st02_id.msg.18.csv": {
+    "st02_id_st02a_acn_01_2": "Girar",
+    "st02_id_st02a_acn_07_0": "Examinar",
+    "st02_id_st02a_acn_0a_0": "Fechar Bico",
+    "st02_id_st02a_acn_0a_1": "Abrir Bico",
+    "st02_id_st02c_acn_06_0": "Sacudir",
+    "st02_id_st02a_gn_01": "Abajur",
+    "st02_id_st02a_gn_03": "Bolsa",
+    "st02_id_st02a_gn_04": "Escadinha",
+    "st02_id_st02a_gn_05": "Motor",
+    "st02_id_st02a_gn_06": "Bola",
+    "st02_id_st02a_gn_07": "Fotos",
+    "st02_id_st02a_gn_09": "Microscópio",
+    "st02_id_st02a_gn_0a": "Chaleira",
+    "st02_id_st02a_gn_0b": "Caderno",
+    "st02_id_st02b_gn_05": "Ferramentas",
+    "st02_id_st02b_gn_06": "Bolo Falso",
+    "st02_id_st02b_gn_07": "Equilibrista",
+    "st02_id_st02b_gn_08": "Guincho",
+    "st02_id_st02c_gn_04": "Folha",
+    "st02_id_st02c_gn_05": "Bala",
+    "st02_id_st02c_gn_06": "Gorro",
+    "st02_id_st02c_gn_09": "Livro",
+    "st02_id_st02c_gn_0a": "Capacete",
+    "st02_id_st02c_gn_0b": "Medidor",
+    "st02_id_st02c_gn_0c": "Tampa de Lixo",
+    "st02_id_st02c_gn_0f": "Jornais Velhos",
+    "st02_id_st02c_gn_10": "Revistas Velhas",
+    "st02_id_st02c_gn_11": "Lixeira"
+  }
+}

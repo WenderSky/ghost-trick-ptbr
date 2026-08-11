@@ -1,0 +1,20 @@
+{
+  "st14/st14_1000.msg.18.csv": {
+    "st14_1000_m14_1000_00": "<TRCK mes_bgm_play no=\"BGM_021\" />Os preparativos estão\nquase completos, senhor.",
+    "st14_1000_m14_1000_01": "<TRCK mesquake />Hmm, sim... Enfim! Estou começando\na enjoar de uvas, meu caro.",
+    "st14_1000_m14_1000_02": "Temos outras frutas, senhor. Posso\nsugerir que prove uma delas, senhor?",
+    "st14_1000_m14_1000_03": "Bah! Eu pensei em provar,\ndepois que terminasse este cacho...",
+    "st14_1000_m14_1000_04": "...mas, veja bem, não importa\nquantas eu coma, sempre\nparece haver mais...",
+    "st14_1000_m14_1000_05": "Entendo, senhor.",
+    "st14_1000_m14_1000_06": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />De todo modo, em breve o\ntelefone vai ficar fora de\nserviço por um tempo, senhor.",
+    "st14_1000_m14_1000_07": "Então o senhor receberá o\nrelatório do Tengo, o \"Um Passo\nà Frente\", um pouco mais tarde.",
+    "st14_1000_m14_1000_08": "Muito bem, muito bem.",
+    "st14_1000_m14_1000_09": "<TRCK mes_se_play no=\"SE_SYS_022\"/><TRCK mesflash /><TRCK c2 />(O telefone vai ficar\n\"<TRCKEND c2 /><TRCK c1 />fora de serviço<TRCKEND c1 /><TRCK c2 />\"?!)<TRCKEND c2 />",
+    "st14_1000_m14_1010_00": "<TRCK mes_se_play no=\"SE_SYS_024\"/><TRCK mesquake type=\"iQuake::LEVEL_M\" frame=\"30\"/>Santo Deus, homem!\nLá vai de novo!",
+    "st14_1000_m14_1010_01": "<TRCK mes_se_play no=\"SE_SYS_023\" /><TRCK mesflash /><TRCK mesquake />Quase engasguei com uma\ndaquelas uvas na moela!",
+    "st14_1000_m14_1010_02": "Minhas desculpas, senhor.",
+    "st14_1000_m14_1010_03": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />Da próxima vez, farei questão\nde lhe trazer uvas menores, senhor.",
+    "st14_1000_m14_1010_04": "<TRCK mes_se_play no=\"SE_SYS_024\"/><TRCK mesquake type=\"iQuake::LEVEL_M\" frame=\"30\"/>Preocupe-se primeiro em consertar\nestes malditos badulaques!\nBah!",
+    "st14_1000_m14_1010_05": "Viu como eu me assustei de\nnovo? Tenha piedade de mim,\nhomem! Eu certamente tenho!"
+  }
+}

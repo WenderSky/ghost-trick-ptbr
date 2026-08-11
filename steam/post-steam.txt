@@ -1,0 +1,169 @@
+MODELO PARA POSTAR NA STEAM
+===========================
+
+Abaixo há três versões do anúncio. Use a que combina com onde você vai postar.
+O texto já vem com as etiquetas de formatação da Steam ([b], [url], [list]) —
+basta copiar e colar; a Steam converte na hora de publicar.
+
+Antes de postar, substitua:
+  LINK_DO_REPOSITORIO   pelo endereço do seu repositório
+  LINK_DO_DOWNLOAD      pelo endereço da Release (ou o mesmo do repositório)
+
+Onde postar:
+  - Guia da Comunidade (Steam > Ghost Trick > Comunidade > Guias > Criar):
+    é o formato que as pessoas acham pelo buscador e conseguem favoritar.
+    Use a VERSÃO 1.
+  - Discussões do jogo (aba Discussões > Iniciar uma nova discussão):
+    use a VERSÃO 2, que é mais curta.
+  - Se for postar no seu perfil ou num grupo, use a VERSÃO 3.
+
+
+-------------------------------------------------------------------------------
+VERSÃO 1 — GUIA DA COMUNIDADE
+-------------------------------------------------------------------------------
+
+TÍTULO:
+Tradução para Português do Brasil (PT-BR) — completa
+
+DESCRIÇÃO CURTA (o resumo que aparece na listagem):
+Tradução completa e gratuita para português do Brasil: roteiro, menus e até as
+imagens com texto. Funciona no PC e no Steam Deck.
+
+CORPO:
+
+[h1]Ghost Trick em português do Brasil[/h1]
+
+Tradução completa e não oficial, feita por fã e gratuita.
+
+[b]O que está traduzido[/b]
+[list]
+[*]As 12.197 falas do jogo — roteiro inteiro, do prólogo ao capítulo final
+[*]Menus, mensagens de sistema e a enciclopédia de personagens
+[*]As 22 imagens que têm texto desenhado dentro: títulos de capítulo,
+logotipo, telas de carregamento e avisos
+[/list]
+
+Os nomes dos personagens continuam os originais: Sissel, Lynne, Missile,
+Cabanela, Jowd, Kamila, Yomiel e companhia.
+
+[h1]Como instalar[/h1]
+
+[b]No PC (Windows)[/b]
+[olist]
+[*]Baixe o pacote do Windows: [url=LINK_DO_DOWNLOAD]clique aqui[/url]
+[*]Extraia a pasta
+[*]Dê dois cliques em [b]INSTALAR.bat[/b]
+[/olist]
+O instalador acha a pasta do jogo sozinho, mesmo que esteja em outro disco.
+
+[b]No Steam Deck[/b]
+[olist]
+[*]Baixe o pacote do Steam Deck e copie para o aparelho
+[*]Entre no Modo Área de Trabalho
+[*]Abra o Konsole, vá até a pasta e rode: [b]bash instalar.sh[/b]
+[/olist]
+Não precisa mexer em Proton, em opção de inicialização nem em nada do tipo.
+
+Depois é só abrir o jogo. Ele já começa em português — a tradução ocupa o lugar
+do inglês, então não existe opção para trocar de idioma.
+
+[h1]Perguntas frequentes[/h1]
+
+[b]Isso quebra meus saves?[/b]
+Não. A tradução não encosta nos saves. Instalar ou remover não apaga nada.
+
+[b]E as conquistas?[/b]
+Continuam funcionando normalmente.
+
+[b]Como eu removo?[/b]
+Rode o DESINSTALAR.bat (ou bash desinstalar.sh). A tradução é um arquivo só
+dentro da pasta do jogo; apagar ele já devolve o inglês. O jogo original nunca
+é modificado.
+
+[b]Verifiquei a integridade dos arquivos e o jogo voltou pro inglês[/b]
+É esperado: a verificação do Steam apaga arquivos que não são dele. É só rodar
+o instalador de novo.
+
+[b]Funciona na versão do Nintendo Switch / celular?[/b]
+Não. Só na versão de PC (Steam).
+
+[b]Achei um erro de tradução ou um texto cortado[/b]
+Me avise nos comentários, de preferência com um print. Se puder dizer o capítulo
+e mais ou menos onde acontece, ajuda muito.
+
+[h1]Créditos e detalhes técnicos[/h1]
+
+Tradução feita a partir do texto em inglês da versão de PC.
+
+Código-fonte da tradução, com os textos e as ferramentas usadas:
+[url=LINK_DO_REPOSITORIO]LINK_DO_REPOSITORIO[/url]
+
+Projeto de fã, sem qualquer relação com a Capcom. Ghost Trick: Phantom Detective
+pertence à Capcom Co., Ltd. É preciso ter o jogo original — nada aqui substitui
+a compra.
+
+
+-------------------------------------------------------------------------------
+VERSÃO 2 — DISCUSSÃO (mais curta)
+-------------------------------------------------------------------------------
+
+TÍTULO:
+[PT-BR] Tradução completa para português do Brasil
+
+CORPO:
+
+Terminei uma tradução completa do jogo para português do Brasil e está de graça
+para quem quiser.
+
+Traduzido: as 12.197 falas (roteiro inteiro), menus, sistema, a enciclopédia e
+também as 22 imagens que têm texto desenhado dentro — incluindo os títulos de
+capítulo e o logotipo.
+
+Funciona no PC e no Steam Deck. No Windows é dois cliques num .bat; no Deck é um
+comando no Konsole. Não precisa mexer em Proton nem em opção de inicialização.
+O jogo já abre em português.
+
+Download e instruções: [url=LINK_DO_DOWNLOAD]LINK_DO_DOWNLOAD[/url]
+
+Não mexe nos saves e não atrapalha conquistas. Para desinstalar, é só apagar um
+arquivo — o jogo original não é modificado.
+
+Se acharem algum erro de tradução ou texto cortado, comentem aqui com um print
+que eu corrijo.
+
+Projeto de fã, sem relação com a Capcom.
+
+
+-------------------------------------------------------------------------------
+VERSÃO 3 — PERFIL OU GRUPO (curtinha)
+-------------------------------------------------------------------------------
+
+Traduzi Ghost Trick: Phantom Detective inteiro para português do Brasil — as
+12.197 falas, os menus e até as imagens com texto desenhado dentro, como os
+títulos de capítulo.
+
+Funciona no PC e no Steam Deck, é gratuito e não mexe nos saves.
+
+[url=LINK_DO_DOWNLOAD]Baixar e instalar[/url]
+
+
+-------------------------------------------------------------------------------
+DICAS PARA O POST RENDER MAIS
+-------------------------------------------------------------------------------
+
+1. Prints valem mais que texto. Coloque três ou quatro:
+   - uma tela de título de capítulo ("Capítulo 2 / 7:31 PM")
+   - uma cena de diálogo com o Missile falando
+   - o menu principal
+   - o contador "4min. antes da morte" durante uma cena de resgate
+   Na Steam, envie primeiro as imagens em Capturas e use [img] no guia.
+
+2. O primeiro parágrafo é o que aparece na prévia. Deixe claro logo de cara
+   que é completa e gratuita.
+
+3. Responda os comentários nos primeiros dias — guia com autor ativo sobe no
+   ranqueamento e as pessoas confiam mais.
+
+4. Se for divulgar fora da Steam, o mesmo texto funciona no Reddit
+   (r/gamedevbr, r/jogatina) e em grupos de tradução no Facebook. Lá, troque as
+   etiquetas [b] por **negrito** do Markdown.

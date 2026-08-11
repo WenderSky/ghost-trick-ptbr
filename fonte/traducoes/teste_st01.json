@@ -1,0 +1,10 @@
+{
+  "st01/st01_0000.msg.18.csv": {
+    "st01_0000_m01_0000": "<TRCK mes_wait_set time=\"190\" /><TRCK mono_pos_set posY=\"25\"/>Devo ter ficado um tempo apagado...<TRCK paragraph_end />\n<TRCK mes_wait_set time=\"96\" />Minha cabeça tá \"zonza\", como se eu\n<TRCK mes_wait_set time=\"96\" />nadasse no meio do escuro...<TRCK auto_pf time=\"26\" />",
+    "st01_0000_m01_0010": "<TRCK mono_pos_set posY=\"25\"/>Quando acordei, tinha uma mulher\nparada ali. Uma que eu não conheço.<TRCK paragraph_end />\nOu pelo menos... acho que não.<TRCK auto_pf time=\"80\" />",
+    "st01_0000_m01_0020": "<TRCK mono_pos_set posY=\"25\"/>E também tinha um cara com uma arma.<TRCK paragraph_end />\nTambém não conheço ele...\nBom, acho que não, pelo menos.<TRCK auto_pf time=\"102\" />",
+    "st01_0000_m01_0030": "<TRCK mono_pos_set posY=\"15\"/>Olha, eu não sou o tipo de cara que\nfica parado vendo uma coitada\nlevar um tiro...<TRCK paragraph_end />\nSó que tem um probleminha...<TRCK auto_pf time=\"158\" />",
+    "st01_0000_m01_0040": "<TRCK mono_type_set type=\"MONO_TYPE_03\" /><TRCK mono_pos_set posY=\"35\"/>Eu já estou morto.<TRCK auto_pf time=\"140\" />",
+    "st01_0000_m01_0041": "<TRCK mono_pos_set posY=\"25\"/>Esse aí sou eu.\nDisso não tem dúvida.<TRCK paragraph_end />\nAliás, você está vendo algum outro\ncorpo jogado por aqui?<TRCK auto_pf time=\"195\" />"
+  }
+}

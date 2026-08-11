@@ -1,0 +1,41 @@
+Ghost Trick: Phantom Detective — tradução para português do Brasil
+Pacote para Steam Deck (e Linux com Steam)
+==================================================================
+
+COMO INSTALAR
+  1. Copie esta pasta para o Deck (pendrive, rede ou Warpinator).
+  2. Entre no Modo Área de Trabalho.
+  3. Abra o Konsole, vá até esta pasta e rode:
+
+       bash instalar.sh
+
+  Rodar com "bash" na frente evita ter que dar permissão de execução —
+  o bit de execução se perde quando o arquivo passa pelo Windows.
+
+  O script procura o jogo sozinho, inclusive no cartão SD.
+
+COMO JOGAR
+  Volte ao Modo Jogo e abra o jogo normalmente. Ele já começa em
+  português — a tradução ocupa o lugar do inglês, então não há opção
+  para trocar.
+
+  Não precisa mexer em Proton, em variável de ambiente nem em opção de
+  inicialização: a tradução é só um arquivo de dados.
+
+COMO REMOVER
+       bash desinstalar.sh
+
+SE O JOGO ESTIVER NO CARTÃO SD
+  O script cobre esse caso. Se a cópia falhar, confira se o cartão não
+  está protegido contra escrita.
+
+SE ALGO DER ERRADO
+  A tradução é um arquivo só, chamado
+  re_chunk_000.pak.patch_001.pak
+  dentro da pasta do jogo. Apagar esse arquivo devolve o jogo ao inglês.
+  O jogo original nunca é modificado.
+
+  Verificar a integridade dos arquivos pelo Steam também remove a
+  tradução — se fizer isso, é só rodar o instalar.sh de novo.
+
+MD5 do patch: f3442d32f069454ef546562663df1561

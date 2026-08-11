@@ -1,0 +1,31 @@
+{
+  "st02/st02_2000.msg.18.csv": {
+    "st02_2000_m02_2400_01": "Bom, se eu não consigo parar...",
+    "st02_2000_m02_2400_02": "<TRCK mes_se_play no=\"SE_SYS_022\" />...talvez eu possa pelo menos\n<TRCK c1 />mudar <TRCKEND c1 />como ela funciona.",
+    "st02_2000_m02_2400_03": "<TRCK c2 />(Vou continuar tentando coisas\naté achar uma nova <TRCKEND c2 /><TRCK c1 />pista<TRCKEND c1 /><TRCK c2 />.)<TRCKEND c2 />",
+    "st02_2000_m02_2405_00": "O que você achou do movimento\ndo Sr. Cupido agora?",
+    "st02_2000_m02_2405_01": "Eu diria que chegamos bem perto.",
+    "st02_2000_m02_2405_02": "<TRCK c2 />(É, acho que falta um\npouquinho ainda.)<TRCKEND c2 />",
+    "st02_2000_m02_2405_03": "<TRCK mes_se_play no=\"SE_SYS_022\" /><TRCK c2 />(Tudo se resume ao\n<TRCKEND c2 /><TRCK c1 />tempo certo<TRCKEND c1 /><TRCK c2 />...)<TRCKEND c2 />",
+    "st02_2000_m02_2540_00": "<TRCK mono_pos_set posY=\"5\"/>Parece que eu tenho a chave\ndo caso que a Lynne investiga...<TRCK paragraph_end />\nE ela tem a chave para\nresolver o \"mistério de mim\"...<TRCK paragraph_end />\nEntão começamos uma estranha\n\"relação de cooperação\".",
+    "st02_2000_m02_2540_01": "<TRCK mono_pos_set posY=\"5\"/>A Lynne me deu uma missão.<TRCK paragraph_end />\nMinha tarefa é ir ver a\nagenda de trabalho de amanhã\ndo Prisioneiro D99.<TRCK paragraph_end />\nÉ melhor eu ir até a prisão.",
+    "st02_2000_m02_2490_00": "Memórias perdidas de si...<TRCK paragraph_end />\nUm caso de assassinato esquecido...<TRCK paragraph_end />\nUm morto e uma detetive\njuntaram forças para descobrir\na verdade por trás dos dois.",
+    "st02_2000_m02_2490_01": "A detetive deu ao morto\numa tarefa:<TRCK paragraph_end />\n\nEntrar escondido na prisão e\ndescobrir a agenda de amanhã\nde um certo prisioneiro.",
+    "st02_2000_m02_2490_02": "E eu com isso? Eu não tenho\nagenda pra amanhã...<TRCK paragraph_end />\n\nÉ mais ou menos assim que\neu me sinto no momento.",
+    "st02_2000_m02_2500_00": "Como será que está aquela\ndetetive que vive morrendo?\nTomara que ainda esteja viva.",
+    "st02_2000_m02_2500_01": "Aposto que ela está bem\nsatisfeita consigo mesma...",
+    "st02_2000_m02_2500_02": "...prendendo tanto a\natenção da Morte\nem cima dela.",
+    "st02_2000_m02_2500_03": "Aquela \"mocinha\" está\nesperando por ela n'<TRCK c1 />A Cozinha\ndo Frango<TRCKEND c1 />.",
+    "st02_2000_m02_2500_04": "Depois que eu cuidar desta\nmissão, é melhor eu ir\npra lá também.",
+    "st02_2000_m02_2510_00": "Acabou... Acabou tudo pra mim...",
+    "st02_2000_m02_2510_01": "A Lynne -- a doce, fofa Lynne,\nque brilha como o sol --\nfugiu de mim...",
+    "st02_2000_m02_2510_02": "E aí aqueles detetives --\num par combinando, azul e\nverde -- gritaram comigo...",
+    "st02_2000_m02_2510_03": "Hmph. Esquece tudo isso.\nAgora escuta aqui, garoto.",
+    "st02_2000_m02_2510_04": "<TRCK mes_se_play no=\"SE_SYS_021\" /><TRCK mesflash />Sim, senhor...?",
+    "st02_2000_m02_2510_05": "<TRCK mes_se_play no=\"SE_SYS_022\" />A sua Lynne \"brilhante como\no sol\" provavelmente nem\nsabe que você existe.",
+    "st02_2000_m02_2510_06": "<TRCK mes_se_play no=\"SE_SYS_022\" />E aqueles detetives\nprovavelmente vão gritar\ncom você a vida toda.",
+    "st02_2000_m02_2510_07": "Deixa de se afligir com cada\ntropeço. Aproveite a vida!\nTire dela o que puder.",
+    "st02_2000_m02_2510_08": "Senhor...",
+    "st02_2000_m02_2510_09": "<TRCK mesflash /><TRCK mesquake />O senhor se importaria\nde me deixar em paz?"
+  }
+}

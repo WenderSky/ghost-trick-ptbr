@@ -1,0 +1,16 @@
+# As quebras de linha aqui não são preferência: são requisito de funcionamento.
+# O bash do Steam Deck aborta com "$'\r': command not found" se o .sh vier com
+# CRLF, e é exatamente isso que o autocrlf do Git no Windows faria.
+
+* text=auto eol=lf
+
+*.sh  text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+Windows/*.txt   text eol=crlf
+SteamDeck/*.txt text eol=lf
+
+*.pak binary
+*.zip binary
+*.png binary

@@ -1,0 +1,12 @@
+# O patch e os pacotes fechados vão para a página de Releases, não para o
+# histórico: são 16,8 MB que mudariam por inteiro a cada versão.
+*.pak
+*.zip
+
+# Sobras de instalação
+*.backup
+
+# Lixo de sistema
+Thumbs.db
+desktop.ini
+.DS_Store

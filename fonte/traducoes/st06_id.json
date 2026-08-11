@@ -1,0 +1,26 @@
+{
+  "st05/st05_2000.msg.18.csv": {
+    "st05_2000_m05_2250_03": "<TRCK mesquake /><TRCK c2 />\"Querida dama! Sejamos livres,\nabramos as asas e voemos!\"<TRCKEND c2 />"
+  },
+  "st06/st06_id.msg.18.csv": {
+    "st06_id_st06_acn_00_0": "Mover",
+    "st06_id_st06_acn_01_0": "Girar Rápido",
+    "st06_id_st06_acn_01_1": "Girar Devagar",
+    "st06_id_st06_acn_04_0": "Tocar",
+    "st06_id_st06_acn_05_0": "Abrir",
+    "st06_id_st06_acn_0b_0": "Virar",
+    "st06_id_st06_acn_0c_0": "Discar",
+    "st06_id_st06_acn_0e_0": "Balançar",
+    "st06_id_st06_gn_00": "Carrinho",
+    "st06_id_st06_gn_01": "Enfeite de Noel",
+    "st06_id_st06_gn_02": "Guarda-chuva",
+    "st06_id_st06_gn_03": "Abajur de Chão",
+    "st06_id_st06_gn_04": "Enfeite Estrela",
+    "st06_id_st06_gn_05": "Porta",
+    "st06_id_st06_gn_08": "Controle Remoto",
+    "st06_id_st06_gn_0a": "Quadro",
+    "st06_id_st06_gn_0b": "Trinco",
+    "st06_id_st06_gn_0c": "Telefone",
+    "st06_id_st06_gn_0e": "Tigela"
+  }
+}
