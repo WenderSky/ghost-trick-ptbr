@@ -1,0 +1,330 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  GUIA DA COMUNIDADE STEAM — GHOST TRICK PT-BR                                ║
+║  Copie cada bloco na seção correspondente do editor de guias.                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+COMO CRIAR O GUIA
+  Steam > Biblioteca > Ghost Trick > Comunidade > Guias > Criar um guia
+  O editor tem "Adicionar seção" no rodapé. Cada SEÇÃO abaixo vira uma dessas.
+  O índice do guia se monta sozinho a partir dos títulos das seções.
+
+IMAGEM DE CAPA (a Steam pede uma antes de publicar)
+  Use uma tela de título de capítulo em português — de preferência a do
+  Capítulo 1, com o "7:02 PM" bem visível. Formato ideal: 600x400 ou maior,
+  na proporção 3:2.
+
+COMO INSERIR OS PRINTS
+  1. No jogo, tire as capturas com F12.
+  2. Steam > Exibir > Capturas de tela > Enviar para a Steam (deixe públicas).
+  3. Abra a captura no navegador, clique com o direito na imagem >
+     "Copiar endereço da imagem".
+  4. Cole dentro de [img]ENDEREÇO[/img] onde estiver marcado no texto.
+
+  Onde cada print faz mais efeito está indicado com  ►►  ao longo do guia.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ TÍTULO DO GUIA
+═══════════════════════════════════════════════════════════════════════════════
+
+Tradução PT-BR completa — texto e imagens (PC e Steam Deck)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ DESCRIÇÃO CURTA  (o resumo que aparece na listagem de guias)
+═══════════════════════════════════════════════════════════════════════════════
+
+Ghost Trick inteiro em português do Brasil: as 12.197 falas, os menus e até os
+títulos de capítulo, que são imagens. Gratuito, funciona no PC e no Steam Deck,
+e não precisa configurar nada.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 1  ·  título: "Ghost Trick em português do Brasil"
+═══════════════════════════════════════════════════════════════════════════════
+
+►► print grande aqui: tela de título de capítulo em português
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[h1]Ghost Trick em português do Brasil[/h1]
+
+Um dos melhores roteiros que a Capcom já escreveu — e que nunca saiu em
+português. Até agora.
+
+Esta é uma tradução [b]completa[/b] e [b]gratuita[/b] de Ghost Trick: Phantom
+Detective para o português do Brasil. Não é só o roteiro: os menus, o sistema, a
+enciclopédia de personagens e até [b]as imagens que têm o texto desenhado
+dentro[/b] — como os títulos de capítulo — estão traduzidos.
+
+[table]
+  [tr][th]Cobertura[/th][th]100% do texto do jogo[/th][/tr]
+  [tr][td]Plataformas[/td][td]PC (Windows) e Steam Deck[/td][/tr]
+  [tr][td]Preço[/td][td]Gratuito[/td][/tr]
+  [tr][td]Configuração[/td][td]Nenhuma — instalou, abriu, está em português[/td][/tr]
+  [tr][td]Saves[/td][td]Não são afetados[/td][/tr]
+  [tr][td]Conquistas[/td][td]Continuam funcionando[/td][/tr]
+[/table]
+
+[hr][/hr]
+
+[b]Por que não tem opção de idioma?[/b]
+
+Porque a tradução ocupa o lugar do inglês. O jogo já abre nesse idioma por
+padrão, então você não precisa entrar em menu nenhum: instalou, abriu, está em
+português. Para voltar ao inglês, é só desinstalar — leva dois segundos e está
+explicado mais abaixo.
+
+[b]Uma coisa que eu preciso dizer de cara[/b]
+
+É uma tradução amadora, feita por um fã. Pode ter typo, alguma frase com sentido
+um pouco diferente do original, ou uma quebra de linha que ficou torta numa caixa
+de diálogo. Se você achar algo assim, comenta aqui embaixo com um print que eu
+corrijo. Sério, pode comentar — é assim que a próxima versão fica melhor.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 2  ·  título: "O que está traduzido"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]O que está traduzido[/h1]
+
+[table]
+  [tr][th]Conteúdo[/th][th]Quantidade[/th][th][/th][/tr]
+  [tr][td]Roteiro e diálogos[/td][td]10.913 falas[/td][td]100%[/td][/tr]
+  [tr][td]Enciclopédia de personagens[/td][td]514[/td][td]100%[/td][/tr]
+  [tr][td]Menus e mensagens de sistema[/td][td]512[/td][td]100%[/td][/tr]
+  [tr][td]Nomes de objetos e ações[/td][td]261[/td][td]100%[/td][/tr]
+  [tr][td]Imagens com texto desenhado[/td][td]22[/td][td]100%[/td][/tr]
+[/table]
+
+Na prática, isso quer dizer:
+
+[list]
+[*][b]A história inteira[/b] — os 17 capítulos mais o capítulo final, do prólogo
+ao epílogo
+[*][b]Todos os diálogos[/b], incluindo as falas opcionais de quando você fica
+examinando o cenário
+[*][b]As falas do Missile[/b], com o jeitinho dele de nomear as coisas que não
+conhece — o telefone é "aquele 'Alô?' preto", os fones de ouvido são "as coisas
+vermelhas"
+[*][b]A enciclopédia[/b] completa, com todos os personagens
+[*][b]Menus, opções, salvamento e seleção de capítulo[/b]
+[*][b]Os nomes de todos os objetos[/b] que você possui e das ações que faz neles
+[/list]
+
+►► print aqui: uma cena de diálogo, de preferência com o Missile falando
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[hr][/hr]
+
+[h2]As imagens com texto[/h2]
+
+Essa parte costuma ficar de fora nas traduções de fã, e eu fiz questão de
+resolver.
+
+Vinte e duas imagens do jogo têm o texto [b]desenhado dentro[/b] — elas não
+passam pelo sistema de legendas, então traduzir o texto do jogo não muda nada
+nelas. São os títulos de capítulo, o logotipo, as telas de carregamento, o
+contador dos quatro minutos e os avisos.
+
+Todas as vinte e duas estão em português.
+
+►► print aqui: o contador "4min. antes da morte" durante uma cena de resgate
+[img]COLE_O_ENDERECO_DA_IMAGEM_AQUI[/img]
+
+[quote=Detalhe curioso]O jogo já vem com essas imagens em nove idiomas. Descobri
+que o espanhol escreve exatamente as mesmas palavras que o português em dezenove
+delas — "Capítulo 1", "Capítulo final" — então dá para usar a imagem oficial da
+Capcom, com a fonte e o brilho originais, sem redesenhar nada.
+
+As outras três precisaram de trabalho. A do contador dizia "de muerte" em
+espanhol, que não serve; mas a versão [b]italiana[/b] diz "morte", igualzinho ao
+português. Recortei a palavra de lá, ajustei o tamanho e encaixei. Nenhuma letra
+foi redesenhada do zero — todas vieram do próprio jogo.[/quote]
+
+[hr][/hr]
+
+[h2]O que ficou no original, de propósito[/h2]
+
+[table]
+  [tr][th]O quê[/th][th]Por quê[/th][/tr]
+  [tr][td]Nomes dos personagens[/td][td]Sissel, Lynne, Missile, Cabanela, Jowd, Kamila, Yomiel — como na versão internacional[/td][/tr]
+  [tr][td]O logotipo "Ghost Trick"[/td][td]É o nome comercial do jogo; só o subtítulo virou "Detetive fantasma"[/td][/tr]
+  [tr][td]Os horários (7:31 PM)[/td][td]Mantidos em AM/PM como no original, para não ficar meio a meio com o menu de capítulos[/td][/tr]
+[/table]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 3  ·  título: "Instalação no PC (Windows)"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Instalação no PC (Windows)[/h1]
+
+Leva menos de um minuto e não precisa de Python, nem de mexer em arquivo de
+configuração, nem de nada disso.
+
+[olist]
+[*][b]Baixe o pacote do Windows:[/b]
+[url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]clique aqui para baixar[/url]
+(procure por [i]GhostTrick_PTBR_Windows.zip[/i])
+[*][b]Descompacte[/b] a pasta em qualquer lugar.
+[*][b]Feche o jogo[/b], se estiver aberto.
+[*]Dê [b]dois cliques em INSTALAR.bat[/b].
+[*]Abra o jogo. Pronto — já está em português.
+[/olist]
+
+O instalador acha a pasta do jogo sozinho, em qualquer biblioteca do Steam,
+[b]inclusive se o jogo estiver em outro disco[/b]. Se por algum motivo ele não
+encontrar, ele pergunta o caminho e você cola ali.
+
+[quote=Como achar o caminho, se precisar]Na sua Biblioteca, clique com o botão
+direito em Ghost Trick > Gerenciar > Procurar arquivos locais. A pasta que abrir
+é o caminho.[/quote]
+
+[b]Para desinstalar:[/b] dois cliques em DESINSTALAR.bat. O jogo volta ao inglês
+na hora.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 4  ·  título: "Instalação no Steam Deck"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Instalação no Steam Deck[/h1]
+
+Funciona igual, e [b]não precisa mexer em Proton[/b], nem em opção de
+inicialização, nem em variável de ambiente. A tradução é só um arquivo de dados.
+
+[olist]
+[*][b]Baixe o pacote do Steam Deck:[/b]
+[url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]clique aqui para baixar[/url]
+(procure por [i]GhostTrick_PTBR_SteamDeck.zip[/i])
+[*]Copie a pasta para o Deck e [b]descompacte[/b] — em Downloads está ótimo.
+[*][b]Feche o jogo[/b] e vá para o [b]Modo Área de Trabalho[/b].
+[*]Abra o [b]Konsole[/b] e digite:
+[code]cd ~/Downloads/SteamDeck
+bash instalar.sh[/code]
+[*]Volte ao [b]Modo Jogo[/b] e abra o jogo. Pronto.
+[/olist]
+
+O script encontra o jogo sozinho, [b]inclusive se estiver no cartão SD[/b].
+
+[quote=Por que "bash instalar.sh" e não "./instalar.sh"?]Porque o arquivo perde a
+permissão de execução quando passa pelo Windows. Chamando com "bash" na frente,
+funciona de qualquer jeito e você não precisa se preocupar com isso.[/quote]
+
+[b]Para desinstalar:[/b] no mesmo lugar, rode [code]bash desinstalar.sh[/code]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 5  ·  título: "Perguntas frequentes"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Perguntas frequentes[/h1]
+
+[b]Isso apaga ou corrompe meus saves?[/b]
+Não. A tradução não encosta nos saves. Você pode instalar no meio de uma partida
+e continuar de onde parou.
+
+[b]E as conquistas?[/b]
+Continuam funcionando normalmente.
+
+[b]Como eu volto para o inglês?[/b]
+Rode o DESINSTALAR.bat (ou bash desinstalar.sh). Se preferir na mão: a tradução é
+[b]um arquivo só[/b] dentro da pasta do jogo, chamado
+[i]re_chunk_000.pak.patch_001.pak[/i]. Apagar esse arquivo já devolve o inglês.
+[b]O jogo original nunca é modificado[/b] — nada é sobrescrito, nada precisa ser
+reinstalado.
+
+[b]Verifiquei a integridade dos arquivos e o jogo voltou pro inglês[/b]
+É esperado. A verificação do Steam apaga qualquer arquivo que não veio dele, e a
+tradução é um desses. É só rodar o instalador de novo.
+
+[b]E quando o jogo for atualizado?[/b]
+A tradução é um arquivo separado, então normalmente continua funcionando. Se uma
+atualização mexer nos textos, eu publico uma versão nova.
+
+[b]Funciona na versão de Nintendo Switch, PS4, Xbox ou celular?[/b]
+Não. Só na versão de PC, pela Steam.
+
+[b]Funciona com o jogo em outro idioma?[/b]
+A tradução substitui o inglês. Se você tiver o jogo configurado em outro idioma
+nas propriedades do Steam, mude para inglês.
+
+[b]Posso jogar com um amigo que não instalou?[/b]
+Ghost Trick é um jogo só para um jogador, então isso não é problema. :)
+
+[b]Achei um erro de tradução / um texto cortado[/b]
+Comenta aqui embaixo com um print. Se puder dizer o capítulo e mais ou menos o
+momento, ajuda muito a localizar. Também dá para abrir uma issue no repositório,
+se você usa GitHub.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ SEÇÃO 6  ·  título: "Bastidores e créditos"
+═══════════════════════════════════════════════════════════════════════════════
+
+[h1]Bastidores e créditos[/h1]
+
+Para quem tem curiosidade sobre como uma tradução dessas é feita.
+
+O jogo roda em [b]RE Engine[/b], a mesma dos Resident Evil modernos, e guarda
+tudo num único arquivo de [b]5,9 GB[/b]. Os textos ficam em 77 tabelas internas,
+com uma coluna para cada idioma.
+
+Traduzir não é só escrever em português. Cada fala carrega [b]marcadores de
+efeito[/b] no meio do texto — som, tremida de tela, flash, pausa, mudança de cor
+— e eles precisam continuar na mesma ordem, senão a cena quebra. Além disso, cada
+tela tem uma [b]largura máxima de linha[/b] diferente, que vai de 27 a 107
+caracteres: passou disso, o texto sai da caixa.
+
+Por isso escrevi uma ferramenta que confere tudo automaticamente antes de gravar:
+ordem e contagem dos marcadores, largura de cada linha, caracteres especiais. O
+resultado final passou com [b]zero divergências[/b] nas 12.197 falas.
+
+[quote=A parte mais divertida]Para descobrir como o fundo das telas de capítulo
+era por baixo do texto, combinei as 162 versões que existem no jogo (18 capítulos
+× 9 idiomas) pegando o pixel mais escuro de cada posição. Como o texto é claro e
+muda de lugar em cada idioma, ele simplesmente desaparece e sobra só o relógio
+vermelho, limpo.[/quote]
+
+[hr][/hr]
+
+[h2]Código-fonte[/h2]
+
+Os textos e as ferramentas estão abertos, para quem quiser conferir, corrigir ou
+usar de base em outro projeto:
+[url=https://github.com/WenderSky/ghost-trick-ptbr]github.com/WenderSky/ghost-trick-ptbr[/url]
+
+[h2]Créditos[/h2]
+
+[b]Tradução, engenharia reversa e ferramentas:[/b] Wender_sky
+
+Ferramenta de desempacotamento: [b]AJT-Tools[/b], de Aclios.
+
+[hr][/hr]
+
+Projeto de fã, sem fins lucrativos e sem qualquer relação com a Capcom. Ghost
+Trick: Phantom Detective e todos os nomes relacionados pertencem à Capcom Co.,
+Ltd. É preciso ter uma cópia legítima do jogo — nada aqui substitui a compra.
+
+Se a tradução te ajudou, deixa um joinha no guia. Ajuda outras pessoas a
+encontrarem. o/
+
+
+═══════════════════════════════════════════════════════════════════════════════
+ DEPOIS DE PUBLICAR
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Marque o guia com as etiquetas certas na hora de publicar. As que importam
+   aqui são "Idiomas" e "Modificações" — é por elas que as pessoas filtram.
+
+2. Poste também na aba Discussões do jogo, com um texto curto e o link do guia.
+   Use o modelo em post-steam.txt (VERSÃO 2). O guia é o que fica achável para
+   sempre; a discussão é o que aparece para quem está no fórum hoje.
+
+3. Responda os comentários nos primeiros dias. Guia com autor ativo sobe no
+   ranqueamento da Steam, e as pessoas confiam mais quando veem que tem alguém
+   do outro lado.
+
+4. Se quiser divulgar fora da Steam, use a VERSÃO 3 do post-steam.txt — ela já
+   está escrita em Markdown, que é o que Reddit e a maioria dos fóruns usam.

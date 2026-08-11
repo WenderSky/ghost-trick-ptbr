@@ -1,145 +1,63 @@
-MODELO PARA POSTAR NA STEAM
-===========================
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TEXTOS CURTOS PARA DIVULGAR                                                 ║
+║  O guia completo da Steam está em guia-steam.txt                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-Abaixo há três versões do anúncio. Use a que combina com onde você vai postar.
-O texto já vem com as etiquetas de formatação da Steam ([b], [url], [list]) —
-basta copiar e colar; a Steam converte na hora de publicar.
+O guia da Comunidade é o que fica achável para sempre pelo buscador da Steam.
+Estes textos curtos são para os lugares onde as pessoas estão hoje: a aba
+Discussões, seu perfil, Reddit, grupos.
 
-Os links já estão preenchidos e apontam para:
-  repositório: https://github.com/WenderSky/ghost-trick-ptbr
-  download:    https://github.com/WenderSky/ghost-trick-ptbr/releases/latest
+Publique o guia primeiro e cole o link dele nos textos abaixo, onde está
+marcado LINK_DO_GUIA.
 
-O link de download usa /releases/latest, então ele continua valendo quando você
-publicar uma v1.1 — não precisa reeditar o post a cada atualização.
+Links já prontos:
+  download:     https://github.com/WenderSky/ghost-trick-ptbr/releases/latest
+  repositório:  https://github.com/WenderSky/ghost-trick-ptbr
 
-Onde postar:
-  - Guia da Comunidade (Steam > Ghost Trick > Comunidade > Guias > Criar):
-    é o formato que as pessoas acham pelo buscador e conseguem favoritar.
-    Use a VERSÃO 1.
-  - Discussões do jogo (aba Discussões > Iniciar uma nova discussão):
-    use a VERSÃO 2, que é mais curta.
-  - Se for postar no seu perfil ou num grupo, use a VERSÃO 3.
+O link de download usa /releases/latest, então continua valendo quando você
+publicar uma v1.1 — não precisa reeditar os posts a cada atualização.
 
 
--------------------------------------------------------------------------------
-VERSÃO 1 — GUIA DA COMUNIDADE
--------------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════════════
+ 1 · DISCUSSÕES DO JOGO
+   Steam > Ghost Trick > Discussões > Iniciar uma nova discussão
+═══════════════════════════════════════════════════════════════════════════════
 
 TÍTULO:
-Tradução para Português do Brasil (PT-BR) — completa
-
-DESCRIÇÃO CURTA (o resumo que aparece na listagem):
-Tradução completa e gratuita para português do Brasil: roteiro, menus e até as
-imagens com texto. Funciona no PC e no Steam Deck.
+[PT-BR] Tradução completa para português do Brasil — texto e imagens
 
 CORPO:
 
-[h1]Ghost Trick em português do Brasil[/h1]
+Terminei uma tradução completa de Ghost Trick para português do Brasil e está de
+graça para quem quiser.
 
-Tradução completa e não oficial, feita por fã e gratuita.
+Traduzido: as [b]12.197 falas[/b] (roteiro inteiro, do prólogo ao capítulo
+final), menus, sistema, a enciclopédia de personagens e também as [b]22 imagens
+que têm o texto desenhado dentro[/b] — os títulos de capítulo, o logotipo e as
+telas de carregamento, que costumam ficar em inglês nesse tipo de projeto.
 
-[b]O que está traduzido[/b]
-[list]
-[*]As 12.197 falas do jogo — roteiro inteiro, do prólogo ao capítulo final
-[*]Menus, mensagens de sistema e a enciclopédia de personagens
-[*]As 22 imagens que têm texto desenhado dentro: títulos de capítulo,
-logotipo, telas de carregamento e avisos
-[/list]
-
-Os nomes dos personagens continuam os originais: Sissel, Lynne, Missile,
-Cabanela, Jowd, Kamila, Yomiel e companhia.
-
-[h1]Como instalar[/h1]
-
-[b]No PC (Windows)[/b]
-[olist]
-[*]Baixe o pacote do Windows: [url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]clique aqui[/url]
-[*]Extraia a pasta
-[*]Dê dois cliques em [b]INSTALAR.bat[/b]
-[/olist]
-O instalador acha a pasta do jogo sozinho, mesmo que esteja em outro disco.
-
-[b]No Steam Deck[/b]
-[olist]
-[*]Baixe o pacote do Steam Deck e copie para o aparelho
-[*]Entre no Modo Área de Trabalho
-[*]Abra o Konsole, vá até a pasta e rode: [b]bash instalar.sh[/b]
-[/olist]
-Não precisa mexer em Proton, em opção de inicialização nem em nada do tipo.
-
-Depois é só abrir o jogo. Ele já começa em português — a tradução ocupa o lugar
-do inglês, então não existe opção para trocar de idioma.
-
-[h1]Perguntas frequentes[/h1]
-
-[b]Isso quebra meus saves?[/b]
-Não. A tradução não encosta nos saves. Instalar ou remover não apaga nada.
-
-[b]E as conquistas?[/b]
-Continuam funcionando normalmente.
-
-[b]Como eu removo?[/b]
-Rode o DESINSTALAR.bat (ou bash desinstalar.sh). A tradução é um arquivo só
-dentro da pasta do jogo; apagar ele já devolve o inglês. O jogo original nunca
-é modificado.
-
-[b]Verifiquei a integridade dos arquivos e o jogo voltou pro inglês[/b]
-É esperado: a verificação do Steam apaga arquivos que não são dele. É só rodar
-o instalador de novo.
-
-[b]Funciona na versão do Nintendo Switch / celular?[/b]
-Não. Só na versão de PC (Steam).
-
-[b]Achei um erro de tradução ou um texto cortado[/b]
-Me avise nos comentários, de preferência com um print. Se puder dizer o capítulo
-e mais ou menos onde acontece, ajuda muito.
-
-[h1]Créditos e detalhes técnicos[/h1]
-
-Tradução feita a partir do texto em inglês da versão de PC.
-
-Código-fonte da tradução, com os textos e as ferramentas usadas:
-[url=https://github.com/WenderSky/ghost-trick-ptbr]https://github.com/WenderSky/ghost-trick-ptbr[/url]
-
-Projeto de fã, sem qualquer relação com a Capcom. Ghost Trick: Phantom Detective
-pertence à Capcom Co., Ltd. É preciso ter o jogo original — nada aqui substitui
-a compra.
-
-
--------------------------------------------------------------------------------
-VERSÃO 2 — DISCUSSÃO (mais curta)
--------------------------------------------------------------------------------
-
-TÍTULO:
-[PT-BR] Tradução completa para português do Brasil
-
-CORPO:
-
-Terminei uma tradução completa do jogo para português do Brasil e está de graça
-para quem quiser.
-
-Traduzido: as 12.197 falas (roteiro inteiro), menus, sistema, a enciclopédia e
-também as 22 imagens que têm texto desenhado dentro — incluindo os títulos de
-capítulo e o logotipo.
-
-Funciona no PC e no Steam Deck. No Windows é dois cliques num .bat; no Deck é um
-comando no Konsole. Não precisa mexer em Proton nem em opção de inicialização.
-O jogo já abre em português.
-
-Download e instruções: [url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]https://github.com/WenderSky/ghost-trick-ptbr/releases/latest[/url]
+Funciona no [b]PC[/b] e no [b]Steam Deck[/b]. No Windows é dois cliques num .bat;
+no Deck é um comando no Konsole. Não precisa mexer em Proton, em opção de
+inicialização nem em nada: o jogo já abre em português.
 
 Não mexe nos saves e não atrapalha conquistas. Para desinstalar, é só apagar um
 arquivo — o jogo original não é modificado.
 
-Se acharem algum erro de tradução ou texto cortado, comentem aqui com um print
-que eu corrijo.
+[b]Guia completo, com instalação passo a passo e FAQ:[/b]
+[url=LINK_DO_GUIA]LINK_DO_GUIA[/url]
+
+[b]Download direto:[/b]
+[url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]github.com/WenderSky/ghost-trick-ptbr/releases[/url]
+
+É uma tradução amadora e pode ter algum erro. Se acharem typo ou texto cortado,
+comentem aqui com um print que eu corrijo nas próximas versões.
 
 Projeto de fã, sem relação com a Capcom.
 
 
--------------------------------------------------------------------------------
-VERSÃO 3 — PERFIL OU GRUPO (curtinha)
--------------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════════════
+ 2 · PERFIL, GRUPO OU COMENTÁRIO RÁPIDO
+═══════════════════════════════════════════════════════════════════════════════
 
 Traduzi Ghost Trick: Phantom Detective inteiro para português do Brasil — as
 12.197 falas, os menus e até as imagens com texto desenhado dentro, como os
@@ -147,26 +65,43 @@ títulos de capítulo.
 
 Funciona no PC e no Steam Deck, é gratuito e não mexe nos saves.
 
-[url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]Baixar e instalar[/url]
+[url=LINK_DO_GUIA]Guia com instruções[/url] · [url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]Baixar[/url]
 
 
--------------------------------------------------------------------------------
-DICAS PARA O POST RENDER MAIS
--------------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════════════
+ 3 · FORA DA STEAM (Reddit, fóruns, grupos)
+   Aqui as etiquetas viram Markdown.
+═══════════════════════════════════════════════════════════════════════════════
 
-1. Prints valem mais que texto. Coloque três ou quatro:
-   - uma tela de título de capítulo ("Capítulo 2 / 7:31 PM")
-   - uma cena de diálogo com o Missile falando
-   - o menu principal
-   - o contador "4min. antes da morte" durante uma cena de resgate
-   Na Steam, envie primeiro as imagens em Capturas e use [img] no guia.
+TÍTULO:
+Traduzi Ghost Trick: Phantom Detective para PT-BR — texto completo e também as
+imagens com texto
 
-2. O primeiro parágrafo é o que aparece na prévia. Deixe claro logo de cara
-   que é completa e gratuita.
+CORPO:
 
-3. Responda os comentários nos primeiros dias — guia com autor ativo sobe no
-   ranqueamento e as pessoas confiam mais.
+Ghost Trick nunca saiu em português, então traduzi por conta própria e estou
+liberando de graça.
 
-4. Se for divulgar fora da Steam, o mesmo texto funciona no Reddit
-   (r/gamedevbr, r/jogatina) e em grupos de tradução no Facebook. Lá, troque as
-   etiquetas [b] por **negrito** do Markdown.
+**O que está traduzido:**
+
+- As 12.197 falas — roteiro inteiro, dos 17 capítulos mais o final
+- Menus, sistema, enciclopédia de personagens e nomes de objetos
+- As 22 imagens que têm texto desenhado dentro (títulos de capítulo, logotipo,
+  telas de carregamento, avisos)
+
+Essa última parte costuma ficar de fora em tradução de fã. O jogo já traz essas
+imagens em nove idiomas, e descobri que o espanhol escreve exatamente as mesmas
+palavras que o português em dezenove delas — "Capítulo 1", "Capítulo final" —
+então dá pra usar a imagem oficial, com a fonte e o brilho originais. As outras
+três eu recompus com glifos tirados de outros idiomas do próprio jogo (a palavra
+"morte", por exemplo, veio da versão italiana).
+
+Funciona no PC e no Steam Deck, não precisa configurar nada e não mexe nos saves.
+
+**Download e instruções:** https://github.com/WenderSky/ghost-trick-ptbr
+
+Os textos e as ferramentas estão abertos no repositório, incluindo o validador
+que confere se os marcadores de efeito e a largura das linhas continuam certos
+depois da tradução.
+
+É amadora e pode ter erro — se acharem algo, é só avisar.
