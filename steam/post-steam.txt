@@ -5,9 +5,12 @@ Abaixo há três versões do anúncio. Use a que combina com onde você vai post
 O texto já vem com as etiquetas de formatação da Steam ([b], [url], [list]) —
 basta copiar e colar; a Steam converte na hora de publicar.
 
-Antes de postar, substitua:
-  LINK_DO_REPOSITORIO   pelo endereço do seu repositório
-  LINK_DO_DOWNLOAD      pelo endereço da Release (ou o mesmo do repositório)
+Os links já estão preenchidos e apontam para:
+  repositório: https://github.com/WenderSky/ghost-trick-ptbr
+  download:    https://github.com/WenderSky/ghost-trick-ptbr/releases/latest
+
+O link de download usa /releases/latest, então ele continua valendo quando você
+publicar uma v1.1 — não precisa reeditar o post a cada atualização.
 
 Onde postar:
   - Guia da Comunidade (Steam > Ghost Trick > Comunidade > Guias > Criar):
@@ -50,7 +53,7 @@ Cabanela, Jowd, Kamila, Yomiel e companhia.
 
 [b]No PC (Windows)[/b]
 [olist]
-[*]Baixe o pacote do Windows: [url=LINK_DO_DOWNLOAD]clique aqui[/url]
+[*]Baixe o pacote do Windows: [url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]clique aqui[/url]
 [*]Extraia a pasta
 [*]Dê dois cliques em [b]INSTALAR.bat[/b]
 [/olist]
@@ -96,7 +99,7 @@ e mais ou menos onde acontece, ajuda muito.
 Tradução feita a partir do texto em inglês da versão de PC.
 
 Código-fonte da tradução, com os textos e as ferramentas usadas:
-[url=LINK_DO_REPOSITORIO]LINK_DO_REPOSITORIO[/url]
+[url=https://github.com/WenderSky/ghost-trick-ptbr]https://github.com/WenderSky/ghost-trick-ptbr[/url]
 
 Projeto de fã, sem qualquer relação com a Capcom. Ghost Trick: Phantom Detective
 pertence à Capcom Co., Ltd. É preciso ter o jogo original — nada aqui substitui
@@ -123,7 +126,7 @@ Funciona no PC e no Steam Deck. No Windows é dois cliques num .bat; no Deck é 
 comando no Konsole. Não precisa mexer em Proton nem em opção de inicialização.
 O jogo já abre em português.
 
-Download e instruções: [url=LINK_DO_DOWNLOAD]LINK_DO_DOWNLOAD[/url]
+Download e instruções: [url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]https://github.com/WenderSky/ghost-trick-ptbr/releases/latest[/url]
 
 Não mexe nos saves e não atrapalha conquistas. Para desinstalar, é só apagar um
 arquivo — o jogo original não é modificado.
@@ -144,7 +147,7 @@ títulos de capítulo.
 
 Funciona no PC e no Steam Deck, é gratuito e não mexe nos saves.
 
-[url=LINK_DO_DOWNLOAD]Baixar e instalar[/url]
+[url=https://github.com/WenderSky/ghost-trick-ptbr/releases/latest]Baixar e instalar[/url]
 
 
 -------------------------------------------------------------------------------
