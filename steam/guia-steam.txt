@@ -8,10 +8,18 @@ COMO CRIAR O GUIA
   O editor tem "Adicionar seção" no rodapé. Cada SEÇÃO abaixo vira uma dessas.
   O índice do guia se monta sozinho a partir dos títulos das seções.
 
-IMAGEM DE CAPA (a Steam pede uma antes de publicar)
-  Use uma tela de título de capítulo em português — de preferência a do
-  Capítulo 1, com o "7:02 PM" bem visível. Formato ideal: 600x400 ou maior,
-  na proporção 3:2.
+IMAGEM DE MARCA (a Steam pede uma quadrada, mínimo 195x195)
+  Já está pronta, na pasta imagens/ aqui do lado:
+
+    capa-guia-A.png   fantasma + PT-BR            ← recomendada
+    capa-guia-B.png   igual, com "TRADUÇÃO" acima
+
+  Ambas em 512x512, bem acima do mínimo. A "A" é a mais legível quando a
+  Steam encolhe para 195x195 na listagem — no tamanho pequeno, a palavra
+  "TRADUÇÃO" da versão B quase sela.
+
+  As duas foram montadas com material do próprio jogo: o fantasminha saiu do
+  logotipo e o fundo é o relógio das telas de capítulo, com o texto removido.
 
 COMO INSERIR OS PRINTS
   1. No jogo, tire as capturas com F12.
